@@ -1,6 +1,6 @@
 {
   "name": "@dougrich/read-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple read cache for node with zero dependencies",
   "main": "index.js",
   "scripts": {
